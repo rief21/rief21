@@ -2,7 +2,7 @@
 
 ---
 
- [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moe23?style=social">](https://twitter.com/ariefsamuel9)
+ [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ariefsamuel9?style=social">](https://twitter.com/ariefsamuel9)
 
 I am a determined and forward-thinking Solutions Architect with 12+ years of experience, working across a wide range of industries, from financial institutes to government entities. Proactive and adaptable, specializing in SaaS across multiple platforms; with a strong understanding and deep practical experience in developing sustainable, secure and long-lasting business applications. 
 
