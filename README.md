@@ -9,7 +9,7 @@ is a Software Developer with experience building applications on the .NET.
 He’s worked in various industries such as water treatment company, and finance. Currently, 
 he specializes in building solutions for CRM or Loyalty Prgram with C#, ASP.NET,Docker, and Azure. He has a passion for software architecture, testing, and distributed systems.
 
-I create tech content related to DotNet, Azure and Angular. You can check my blog on [dasBlog](arief21.azurewebsites.net)
+I create tech content related to DotNet, WebAPi's, Visual Studio Code  and  Azure. You can check my blog on [dasBlog](arief21.azurewebsites.net)
 
 ---
 💻 Main Tech Stack
