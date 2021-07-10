@@ -11,8 +11,7 @@ I create tech content related to DotNet, Azure and Angular. You can check my blo
 ---
 💻 Main Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQlServer logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="JavaScript logo" width="40" height="40" />
 
 ---
 📺 Latest Youtube
