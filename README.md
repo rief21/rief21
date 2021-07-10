@@ -30,7 +30,7 @@ I create tech content related to DotNet, WebAPi's, Visual Studio Code  and  Azur
 - [kotakode-platform-komunitas-bagi-para-pegiat-it-di-indonesia](https://arief21.azurewebsites.net/2021/06/22/kotakode-platform-komunitas-bagi-para-pegiat-it-di-indonesia)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 [Visit my blog for more articles](arief21.azurewebsites.net)
+🔗 [Visit my blog for more articles](https://arief21.azurewebsites.net/)
 
 ---
 💹 Github Stats
